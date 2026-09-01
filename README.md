@@ -118,37 +118,45 @@ At the moment, I am actively learning & improving my Skills in Full Stack Web De
 </div>
 
 
+
 ---
+
 
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=towards-infinity&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://streak-stats.vercel.app/?user=towards-infinity&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=CODERRAHIMA&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.vercel.app/?user=CODERRAHIMA&theme=tokyonight&hide_border=true" />
 </p>
 
 
+
 ---
+
 
 
 <p align="center">
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=towards-infinity&theme=tokyonight" />
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=towards-infinity&theme=tokyonight&utcOffset=8" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CODERRAHIMA&theme=tokyonight" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CODERRAHIMA&theme=tokyonight&utcOffset=8" />
 </p>
 
 
+
 ---
+
 
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towards-infinity&hide_fullname=true&theme=tokyonight" alt="Activity Overview" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CODERRAHIMA&hide_fullname=true&theme=tokyonight" alt="Activity Overview" />
 </div>
 
 
+
 --- 
+
 
 
 <div align="center">
@@ -156,7 +164,9 @@ At the moment, I am actively learning & improving my Skills in Full Stack Web De
 </div>
 
 
+
 ---
+
 
 
  ## 📦 My Projects
@@ -165,10 +175,10 @@ At the moment, I am actively learning & improving my Skills in Full Stack Web De
 
 | Project Name | Links | Tech Stack | Bio |
 | :--- | :---: | :--- |  :--- |
-| **Project 1** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/Project-1) | `Python` `React` | Project 1 Bio |
-| **Project 2** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/project-2) | `JavaScript` `Node` | Project 2 Bio |
-| **Project 3** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/Project-3) | `Python` `React` | project 3 Bio |
-| **Project 4** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/project-4) | `JavaScript` `Node` | project 4 Bio|
+| **Project 1** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/Project-1) | `Typescript` `React` | Project 1 Bio |
+| **Project 2** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/project-2) | `Javascript` `Node` | Project 2 Bio |
+| **Project 3** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/Project-3) | `Typescript` `React` | project 3 Bio |
+| **Project 4** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/project-4) | `Javascript` `Node` | project 4 Bio|
 
 </div>
 
