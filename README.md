@@ -112,21 +112,42 @@ At the moment, I am actively learning & improving my Skills in Full Stack Web De
 
 
 
-## 🏆 Data Structure & Algorithm
+## 🧠 Data Structures & Algorithms
 
-<div align="center">
-  <a href="https://codeforces.com/profile/0t0infinit">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://leetcode.com/u/0twoinfinity/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</div>
+### Languages :-
+<img src="https://img.shields.io/badge/-C++-2C3E50?style=for-the-badge" /> &nbsp;
+<img src="https://img.shields.io/badge/-STL (Standard Template Library)-2C3E50?style=for-the-badge" /> &nbsp;
+
+### Data Structures :-
+<img src="https://img.shields.io/badge/-Arrays-2C3E50?style=for-the-badge" /> &nbsp;
+<img src="https://img.shields.io/badge/-Vectors-2C3E50?style=for-the-badge" /> &nbsp;
+<img src="https://img.shields.io/badge/-Strings-2C3E50?style=for-the-badge" /> &nbsp;
+<img src="https://img.shields.io/badge/-Linked_List-2C3E50?style=for-the-badge" /> &nbsp;
+<img src="https://img.shields.io/badge/-Stack-2C3E50?style=for-the-badge" /> &nbsp;
+<img src="https://img.shields.io/badge/-Queue-2C3E50?style=for-the-badge" />
+
+### Algorithms :-
+<img src="https://img.shields.io/badge/-Big_O_Notation-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Linear_&_Binary_Search-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Sorting_Algorithms-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Two_Pointers-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Sliding_Window-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Recursion-2C3E50?style=for-the-badge" />
 
 
 
 ---
 
+
+
+## 🏆 Coding Platforms :-
+
+<div align="center">
+  <a href="https://codeforces.com/profile/RAHIMA_02">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/u/SoulXR/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</div>
+
+
+---
 
 
 ## 📊 GitHub Analytics  
