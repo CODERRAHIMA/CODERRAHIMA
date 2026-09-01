@@ -127,7 +127,7 @@ At the moment, I am actively learning & improving my Skills in Full Stack Web De
 <img src="https://img.shields.io/badge/-Queue-2C3E50?style=for-the-badge" />
 
 ### Algorithms :-
-<img src="https://img.shields.io/badge/-Big_O_Notation-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Linear_&_Binary_Search-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Sorting_Algorithms-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Two_Pointers-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Sliding_Window-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Recursion-2C3E50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Big_O_Notation-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Linear_&_Binary_Search-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Sorting-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Two_Pointers-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Sliding_Window-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Recursion-2C3E50?style=for-the-badge" />
 
 
 
