@@ -175,10 +175,10 @@ At the moment, I am actively learning & improving my Skills in Full Stack Web De
 
 | Project Name | Links | Tech Stack | Bio |
 | :--- | :---: | :--- |  :--- |
-| **Project 1** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/Project-1) | `-` `-` | Bio |
-| **Project 2** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/project-2) | `-` `-` | Bio |
-| **Project 3** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/Project-3) | `-` `-` | Bio |
-| **Project 4** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/project-4) | `-` `-` | Bio|
+| **Project 1** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/CODERRAHIMA/repo1) | `-` `-` | - |
+| **Project 2** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/CODERRAHIMA/repo2) | `-` `-` | - |
+| **Project 3** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/CODERRAHIMA/repo3) | `-` `-` | - |
+| **Project 4** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/CODERRAHIMA/repo4) | `-` `-` | - |
 
 </div>
 
