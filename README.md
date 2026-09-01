@@ -1,7 +1,7 @@
 <h3 align="center">Assalamu Alaikum Habibi</h3> 
  
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=250&section=header&text=Rahima%20%20Akter&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%7C%20MERN%20&descAlignY=60&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=250&section=header&text=Rahima%20%20Akter&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%7C%20MERN%20&descAlignY=60&descAlign=62" width="100%"/>
 </div>
 
 <div align="center">
