@@ -1,12 +1,12 @@
 <h3 align="center">Assalamu Alaikum Habibi</h3> 
  
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF85A1&height=250&section=header&text=Rahima%20%20Akter&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%7C%20MERN%20&descAlignY=60&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=250&section=header&text=Rahima%20%20Akter&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%7C%20MERN%20&descAlignY=60&descAlign=62" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF85A1&center=true&vCenter=true&width=600&lines=Proficient+in+Javascript;Tailwind+%26+Bootstrap+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Proficient+in+Javascript;Tailwind+%26+Bootstrap+Specialist" alt="Typing SVG" />
   </a>
 </div>
 
