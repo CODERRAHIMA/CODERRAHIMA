@@ -15,7 +15,7 @@
 <div align="center">
   <a href="portfolio-link">
     <img src="https://img.shields.io/badge/Portfolio-2D333B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a> 
   <a href="https://www.linkedin.com/in/rahima1630/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -39,10 +39,17 @@
 
 ## 👨‍💻 About Me 
 
-At the moment, I am actively learning & improving my Skills in Full Stack Web Development. <br>
+🚀 At the moment, I am actively learning and improving my skills in **Full Stack Web Development**, while building projects and strengthening my understanding of modern web technologies.
+<br />
+🧠 Alongside development, I actively practice **Data Structures & Basic Algorithms and Problem Solving** to strengthen my programming and logical thinking.
+<br />
+🎯 My goal is to become proficient in **MERN Stack Development** and build scalable, user-focused web applications with clean and maintainable code.
+<br />
+🤖 In the long run, I aspire to explore the integration of **Artificial Intelligence into Software Engineering** and contribute to innovative solutions across various fields of technology. 
+<br />
 
-- 🚀 **DEV Journey:** 
-- 🌐 **Full Stack:** Learning From **Programming Hero** Batch **14**.
+
+- 🌐 **Dev Journey:** Currently learning Full Stack Web Development through **Programming Hero - Batch 14**.
 
 
 
@@ -65,9 +72,10 @@ At the moment, I am actively learning & improving my Skills in Full Stack Web De
 
 
 ### 💻 Frontend
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <br />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -101,6 +109,8 @@ At the moment, I am actively learning & improving my Skills in Full Stack Web De
 <img src="https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_Assisted_Coding-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 <br />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white" />
 
@@ -115,16 +125,11 @@ At the moment, I am actively learning & improving my Skills in Full Stack Web De
 ## 🧠 Data Structures & Algorithms
 
 ### Languages :-
-<img src="https://img.shields.io/badge/-C++-2C3E50?style=for-the-badge" /> &nbsp;
-<img src="https://img.shields.io/badge/-STL (Standard Template Library)-2C3E50?style=for-the-badge" /> &nbsp;
+<img src="https://img.shields.io/badge/-C++-2C3E50?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/-STL (Standard Template Library)-2C3E50?style=for-the-badge" />
 
 ### Data Structures :-
-<img src="https://img.shields.io/badge/-Arrays-2C3E50?style=for-the-badge" /> &nbsp;
-<img src="https://img.shields.io/badge/-Vectors-2C3E50?style=for-the-badge" /> &nbsp;
-<img src="https://img.shields.io/badge/-Strings-2C3E50?style=for-the-badge" /> &nbsp;
-<img src="https://img.shields.io/badge/-Linked_List-2C3E50?style=for-the-badge" /> &nbsp;
-<img src="https://img.shields.io/badge/-Stack-2C3E50?style=for-the-badge" /> &nbsp;
-<img src="https://img.shields.io/badge/-Queue-2C3E50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Arrays-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Vectors-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Strings-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Linked_List-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Stack-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Queue-2C3E50?style=for-the-badge" />
 
 ### Algorithms :-
 <img src="https://img.shields.io/badge/-Big_O_Notation-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Linear_&_Binary_Search-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Sorting-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Two_Pointers-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Sliding_Window-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Recursion-2C3E50?style=for-the-badge" />
