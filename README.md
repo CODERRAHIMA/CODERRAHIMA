@@ -91,9 +91,9 @@
 
 
 ### 🎨 UI Libraries
+<img src="https://img.shields.io/badge/daisyUI-7C3AED?style=for-the-badge&logo=daisyui&logoColor=white" />
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 <img src="https://img.shields.io/badge/Hero_UI-006241?style=for-the-badge&logo=uiomatic&logoColor=white" />
-
 
 ### 🔐 Auth, Security & Payments
 <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
