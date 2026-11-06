@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <a href="[https://portfolio-r-sepia-five.vercel.app/">
+  <a href="https://portfolio-r-sepia-five.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-2D333B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a> 
   <a href="https://www.linkedin.com/in/rahima1630/">
